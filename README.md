@@ -15,3 +15,5 @@ PCB:
 
 Link al EasyEDA: 
 https://u.easyeda.com/join?type=project&key=463fff9892ae0cea352ecec7d60178df&inviter=5468e88ebdd84a02aaf3419c9e6f566b
+
+Guía/info: [Cubo 512 LEDS - Guía.pdf](https://github.com/user-attachments/files/17908861/Cubo.512.LEDS.-.Guia.pdf)
