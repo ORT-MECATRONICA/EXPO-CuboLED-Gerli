@@ -3,7 +3,9 @@ Cubo LED 8x8x8 controlado por microcontrolador para crear patrones de luz en 3D.
 
 
 
-https://github.com/user-attachments/assets/3a6c8656-929d-4912-b905-eb0e2220bb16
+https://github.com/user-attachments/assets/3a6c8656-929d-4912-b905-eb0e2220bb16  
+https://github.com/user-attachments/assets/3723983b-eb53-4d83-96d9-2ad845ce37cf
+
 
 
 
