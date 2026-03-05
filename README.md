@@ -1,8 +1,16 @@
 # EXPO-CuboLED-Gerli
 Cubo LED 8x8x8 controlado por microcontrolador para crear patrones de luz en 3D. 
 
-| :---: | :---: |
-| <video src="https://github.com/user-attachments/assets/3a6c8656-929d-4912-b905-eb0e2220bb16" width="350" controls muted></video> | <video src="https://github.com/user-attachments/assets/3723983b-eb53-4d83-96d9-2ad845ce37cf" width="350" controls muted></video> |
+<table>
+  <tr>
+    <td>
+      <video src="https://github.com/user-attachments/assets/3a6c8656-929d-4912-b905-eb0e2220bb16" width="350" controls muted></video>
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/3723983b-eb53-4d83-96d9-2ad845ce37cf" width="350" controls muted></video>
+    </td>
+  </tr>
+</table>
 
 Esquemático:
 ![image](https://github.com/user-attachments/assets/da123201-e544-49c2-99b8-1e02a1b9f442)
